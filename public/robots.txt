@@ -1,0 +1,71 @@
+# =========================================
+# 杖雍皓行踪轨迹 - robots.txt
+# 网站: https://maps.zyhorg.cn/
+# 联系: info@zyhorg.cn
+# =========================================
+
+# 允许所有搜索引擎爬虫
+User-agent: *
+
+# 允许访问
+Allow: /
+
+# 禁止访问的路径
+Disallow: /api/
+Disallow: /*.json$
+Disallow: /admin/
+
+# 爬取延迟（秒）
+Crawl-delay: 1
+
+# =========================================
+# 针对主要搜索引擎的特定规则
+# =========================================
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Google 图片
+User-agent: Googlebot-Image
+Allow: /zyh.jpg
+Allow: /logo.svg
+Allow: /amap.svg
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# 百度
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+# 搜狗
+User-agent: Sogou
+Allow: /
+Crawl-delay: 2
+
+# 360搜索
+User-agent: 360Spider
+Allow: /
+Crawl-delay: 2
+
+# 神马搜索
+User-agent: YisouSpider
+Allow: /
+Crawl-delay: 2
+
+# =========================================
+# 站点地图
+# =========================================
+
+Sitemap: https://maps.zyhorg.cn/sitemap.xml
+
+# =========================================
+# 主机
+# =========================================
+
+Host: https://maps.zyhorg.cn

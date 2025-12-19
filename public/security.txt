@@ -1,0 +1,11 @@
+# 杖雍皓行踪轨迹 安全政策
+# https://maps.zyhorg.cn/.well-known/security.txt
+
+Contact: mailto:info@zyhorg.cn
+Expires: 2025-12-31T23:59:59.000Z
+Preferred-Languages: zh-CN, en
+Canonical: https://maps.zyhorg.cn/.well-known/security.txt
+Policy: https://www.zyhorg.cn/security-policy
+
+# 如果您发现任何安全漏洞，请通过上述联系方式与我们取得联系。
+# 我们非常重视安全问题，将尽快响应并处理。

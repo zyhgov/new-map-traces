@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+                            http://www.google.com/schemas/sitemap-image/1.1
+                            http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+  
+  <!-- 首页 -->
+  <url>
+    <loc>https://maps.zyhorg.cn/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://maps.zyhorg.cn/zyh.jpg</image:loc>
+      <image:title>杖雍皓行踪轨迹</image:title>
+      <image:caption>杖雍皓行踪轨迹 - 个人出行记录与可视化展示平台</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.zyhorg.cn/logo.svg</image:loc>
+      <image:title>联合库 UNHub Logo</image:title>
+    </image:image>
+  </url>
+  
+  <!-- 可以根据实际地点动态添加更多 URL -->
+  
+</urlset>

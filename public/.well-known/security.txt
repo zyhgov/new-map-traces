@@ -1,0 +1,4 @@
+Contact: mailto:info@zyhorg.cn
+Expires: 2025-12-31T23:59:59.000Z
+Preferred-Languages: zh-CN, en
+Canonical: https://maps.zyhorg.cn/.well-known/security.txt

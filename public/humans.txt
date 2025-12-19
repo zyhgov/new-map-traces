@@ -1,0 +1,30 @@
+/* TEAM */
+
+Developer: 杖雍皓
+Contact: info@zyhorg.cn
+From: China
+
+Organization: 联合库 UNHub
+Website: https://www.zyhorg.cn/
+
+/* THANKS */
+
+高德开放平台 - 提供地图 API 支持
+Supabase - 提供数据库服务
+Cloudflare - 提供 CDN 和对象存储服务
+React - 前端框架
+Tailwind CSS - CSS 框架
+
+/* SITE */
+
+Last update: 2024/12/19
+Language: Chinese (Simplified) / 简体中文
+Doctype: HTML5
+IDE: Visual Studio Code
+Standards: HTML5, CSS3, ES6+, TypeScript
+
+/* DESCRIPTION */
+
+杖雍皓行踪轨迹是一个专业级个人出行轨迹记录与可视化展示平台。
+通过精准的地理坐标定位、灵活的区域范围标注以及流畅的行程轨迹绘制，
+结合丰富的多媒体内容呈现，为每一段旅程赋予独特的空间叙事。

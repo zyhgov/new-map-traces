@@ -1,0 +1,45 @@
+{
+  "name": "杖雍皓行踪轨迹",
+  "short_name": "行踪轨迹",
+  "description": "由联合库UNHub基于高德地图API打造的专业级个人出行轨迹记录与可视化展示平台",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f8",
+  "theme_color": "#0071e3",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "categories": ["travel", "maps", "lifestyle"],
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/zyh.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "杖雍皓行踪轨迹首页"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
